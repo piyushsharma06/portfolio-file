@@ -1,8 +1,3 @@
-# portfolio-file
-minior project
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
